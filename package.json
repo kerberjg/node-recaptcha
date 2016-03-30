@@ -1,0 +1,30 @@
+{
+  "name": "recaptcha-v2",
+  "version": "0.1.0",
+  "description": "Node.js bindings for Google's reCAPTCHA (v2 supported)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kerberjg/node-recaptcha.git"
+  },
+  "keywords": [
+  	"google",
+    "recaptcha",
+    "recaptchav2",
+    "recaptcha v2",
+    "security",
+    "antispam",
+    "node.js",
+    "express",
+    "expressjs"
+  ],
+  "author": "Jakub Kerber <kerberjg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kerberjg/node-recaptcha/issues"
+  },
+  "homepage": "https://github.com/kerberjg/node-recaptcha"
+}
