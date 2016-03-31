@@ -1,5 +1,5 @@
 {
-  "name": "recaptcha-v2",
+  "name": "node-recaptcha-v2",
   "version": "0.1.0",
   "description": "Node.js bindings for Google's reCAPTCHA (v2 supported)",
   "main": "index.js",
